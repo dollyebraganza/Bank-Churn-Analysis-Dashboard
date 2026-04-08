@@ -24,7 +24,7 @@ Business Problem: The bank saw rising exit rates but lacked a way to see if the 
 
 Goal of Dashboard: To provide a localized "Risk Map" that identifies which branches or regions are losing the most customers and why.
 
-**Key Visuals:**
+**5. Key Visuals:**
 
 Activity KPI Cards: Comparing Active vs. Inactive customer ratios.
 
@@ -32,7 +32,7 @@ Regional Heatmaps: Identifying geographical "Hotspots" for churn.
 
 MoM Exit Trends: Tracking the speed of customer exits over a timeline.
 
-**Impact & Insight:**
+**6. Impact & Insight:**
 
 Regional Anomaly: Isolated a 15% higher churn rate in specific cities, suggesting the need for localized retention offers.
 
@@ -44,8 +44,8 @@ Regional Heatmaps: Identifying geographical "Hotspots" for churn.
 
 MoM Exit Trends: Tracking the speed of customer exits over a timeline.
 
-Business Problem: The bank faced increasing customer exits but lacked a clear view of whether the issue was driven by regional factors or specific customer behaviors (like low account activity or credit card status).
+**Business Problem:**  The bank faced increasing customer exits but lacked a clear view of whether the issue was driven by regional factors or specific customer behaviors (like low account activity or credit card status).
 
-Goal of Dashboard: To identify "Silent Exits"—customers who have stopped using their accounts but haven't officially closed them yet—and to map churn hotspots geographically for targeted intervention.
+**Goal of Dashboard: ** To identify "Silent Exits"—customers who have stopped using their accounts but haven't officially closed them yet—and to map churn hotspots geographically for targeted intervention.
 
-Screenshot:()
+Screenshot:(https://github.com/dollyebraganza/Bank-Churn-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboad.png)
