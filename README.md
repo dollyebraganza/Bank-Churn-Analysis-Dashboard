@@ -46,6 +46,6 @@ MoM Exit Trends: Tracking the speed of customer exits over a timeline.
 
 **Business Problem:**  The bank faced increasing customer exits but lacked a clear view of whether the issue was driven by regional factors or specific customer behaviors (like low account activity or credit card status).
 
-**Goal of Dashboard: ** To identify "Silent Exits"—customers who have stopped using their accounts but haven't officially closed them yet—and to map churn hotspots geographically for targeted intervention.
+**Goal of Dashboard:**  To identify "Silent Exits"—customers who have stopped using their accounts but haven't officially closed them yet—and to map churn hotspots geographically for targeted intervention.
 
 Screenshot:(https://github.com/dollyebraganza/Bank-Churn-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboad.png)
